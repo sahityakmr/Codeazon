@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sahitya/CLionProjects/Codeazon/codechef/long_challange/june/TTUPLE_ED.cpp
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+vector
+-
+algorithm
+-
+fstream
+-
+queue
+-
+deque
+-
+iomanip
+-
+cmath
+-
+set
+-
+stack
+-
+map
+-
+unordered_map
+-
+

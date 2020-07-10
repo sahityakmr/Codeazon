@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sahitya/CLionProjects/Codeazon/codechef/long_challange/july/PTMSSNG.cpp
+bits/stdc++.h
+C:/Users/Sahitya/CLionProjects/Codeazon/codechef/long_challange/july/bits/stdc++.h
+

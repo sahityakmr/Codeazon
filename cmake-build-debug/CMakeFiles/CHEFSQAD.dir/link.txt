@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\CHEFSQAD.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\CHEFSQAD.dir/objects.a @CMakeFiles\CHEFSQAD.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\CHEFSQAD.dir/objects.a -Wl,--no-whole-archive  -o CHEFSQAD.exe -Wl,--out-implib,libCHEFSQAD.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CHEFSQAD.dir\linklibs.rsp

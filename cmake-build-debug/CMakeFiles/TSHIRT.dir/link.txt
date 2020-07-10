@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\TSHIRT.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\TSHIRT.dir/objects.a @CMakeFiles\TSHIRT.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\TSHIRT.dir/objects.a -Wl,--no-whole-archive  -o TSHIRT.exe -Wl,--out-implib,libTSHIRT.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TSHIRT.dir\linklibs.rsp
